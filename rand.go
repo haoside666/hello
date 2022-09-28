@@ -1,4 +1,4 @@
-package strutil
+package hello
 
 
 func RandString() string{
